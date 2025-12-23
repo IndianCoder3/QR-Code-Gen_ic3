@@ -29,7 +29,7 @@ A simple and customizable QR Code Generator app built with Python. Generate QR c
 
 1. Download the `qrcode-gen_v*-portable.zip` from the [Releases page](https://github.com/IndianCoder3/QR-Code-Gen_ic3/releases).
 2. Extract the ZIP file to any folder.
-3. Run the executable `QR-Code-Gen.exe` directly from the extracted folder.
+3. Run the executable `GUI-v*.exe` directly from the extracted folder.
 
 ---
 
@@ -40,7 +40,7 @@ A simple and customizable QR Code Generator app built with Python. Generate QR c
 3. Install required dependencies using:
 
    ```bash
-   pip install qrcode, Pillow
+   pip install qrcode Pillow
    ````
 
 4. Run the app with:
