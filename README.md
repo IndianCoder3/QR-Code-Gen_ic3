@@ -2,6 +2,8 @@
 
 A simple and customizable QR Code Generator app built with Python. Generate QR codes from text or URLs with various styling options.
 
+This app was built as an alternative to the Streamlit App (You must view that one too!): https://github.com/IndianCoder3/Str-QR-Code-Gen_ic3/
+
 ---
 
 ## Features
